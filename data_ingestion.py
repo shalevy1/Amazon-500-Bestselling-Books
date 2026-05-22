@@ -7,8 +7,6 @@ Loads the Kaggle "Top 500 Amazon Bestselling Books" CSV, applies
 standardized cleaning transformations, and exports a clean artifact
 ready for downstream vectorization and reranking.
 
-Author : Shreyansh
-Created: 2026-05-21
 """
 
 import re
